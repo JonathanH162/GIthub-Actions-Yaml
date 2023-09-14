@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: Intel
     cores: 8
+    frequency: 10
+  memory:
+    manufacturer: Dell
+    size: 27
+    type: Super
+  disk:
+    manufacturer: Dell
+    size: 52
+    type: Turbo
