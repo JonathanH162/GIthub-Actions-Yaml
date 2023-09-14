@@ -5,4 +5,5 @@ person:
   age: 23
   class: Math
   start_year: 2017
-  hobbies: Art
+  hobbies:
+    - Art
