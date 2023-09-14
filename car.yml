@@ -1,2 +1,5 @@
 car:
-  manufacturer: volvo
+  model: volvo
+  year: 2010
+  attributes: 0
+  reg: WRY456
