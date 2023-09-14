@@ -1,5 +1,6 @@
 car:
-  model: volvo
-  year: 2010
-  attributes: 0
-  reg: WRY456
+  manufacturer: "volvo"
+  model: "v70"
+  year: "2010"
+  attributes: "0"
+  reg: "WRY456"
